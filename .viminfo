@@ -12,7 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1791311527,,"wq"
+|2,0,1791313153,,"wq"
+:q
+|2,0,1791312893,,"q"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +27,301 @@
 # Registers:
 
 # File marks:
-'0  69  2  ~/README.md
-|4,48,69,2,1791311527,"~/README.md"
+'0  47  0  ~/garden/ics.py
+|4,48,47,0,1791313153,"~/garden/ics.py"
+'1  142  0  ~/garden/server.py
+|4,49,142,0,1791313137,"~/garden/server.py"
+'2  140  0  ~/garden/cli.py
+|4,50,140,0,1791313117,"~/garden/cli.py"
+'3  4  0  ~/garden/__main__.py
+|4,51,4,0,1791313096,"~/garden/__main__.py"
+'4  2  20  ~/garden/__init__.py
+|4,52,2,20,1791313080,"~/garden/__init__.py"
+'5  150  0  ~/garden/zones.py
+|4,53,150,0,1791313061,"~/garden/zones.py"
+'6  138  0  ~/garden/planner.py
+|4,54,138,0,1791313040,"~/garden/planner.py"
+'7  27  25  ~/deploy/garden-calendar.service
+|4,55,27,25,1791312992,"~/deploy/garden-calendar.service"
+'8  157  0  ~/test_planner.py
+|4,56,157,0,1791312906,"~/test_planner.py"
+'9  1  0  ~/test_planner
+|4,57,1,0,1791312893,"~/test_planner"
 
 # Jumplist (newest first):
--'  69  2  ~/README.md
-|4,39,69,2,1791311527,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1791311521,"~/README.md"
+-'  47  0  ~/garden/ics.py
+|4,39,47,0,1791313153,"~/garden/ics.py"
+-'  1  0  ~/garden/ics.py
+|4,39,1,0,1791313150,"~/garden/ics.py"
+-'  142  0  ~/garden/server.py
+|4,39,142,0,1791313137,"~/garden/server.py"
+-'  142  0  ~/garden/server.py
+|4,39,142,0,1791313137,"~/garden/server.py"
+-'  1  0  ~/garden/server.py
+|4,39,1,0,1791313134,"~/garden/server.py"
+-'  1  0  ~/garden/server.py
+|4,39,1,0,1791313134,"~/garden/server.py"
+-'  140  0  ~/garden/cli.py
+|4,39,140,0,1791313117,"~/garden/cli.py"
+-'  140  0  ~/garden/cli.py
+|4,39,140,0,1791313117,"~/garden/cli.py"
+-'  140  0  ~/garden/cli.py
+|4,39,140,0,1791313117,"~/garden/cli.py"
+-'  140  0  ~/garden/cli.py
+|4,39,140,0,1791313117,"~/garden/cli.py"
+-'  1  0  ~/garden/cli.py
+|4,39,1,0,1791313109,"~/garden/cli.py"
+-'  1  0  ~/garden/cli.py
+|4,39,1,0,1791313109,"~/garden/cli.py"
+-'  1  0  ~/garden/cli.py
+|4,39,1,0,1791313109,"~/garden/cli.py"
+-'  1  0  ~/garden/cli.py
+|4,39,1,0,1791313109,"~/garden/cli.py"
+-'  4  0  ~/garden/__main__.py
+|4,39,4,0,1791313096,"~/garden/__main__.py"
+-'  4  0  ~/garden/__main__.py
+|4,39,4,0,1791313096,"~/garden/__main__.py"
+-'  4  0  ~/garden/__main__.py
+|4,39,4,0,1791313096,"~/garden/__main__.py"
+-'  4  0  ~/garden/__main__.py
+|4,39,4,0,1791313096,"~/garden/__main__.py"
+-'  4  0  ~/garden/__main__.py
+|4,39,4,0,1791313096,"~/garden/__main__.py"
+-'  4  0  ~/garden/__main__.py
+|4,39,4,0,1791313096,"~/garden/__main__.py"
+-'  4  0  ~/garden/__main__.py
+|4,39,4,0,1791313096,"~/garden/__main__.py"
+-'  4  0  ~/garden/__main__.py
+|4,39,4,0,1791313096,"~/garden/__main__.py"
+-'  1  0  ~/garden/__main__.py
+|4,39,1,0,1791313093,"~/garden/__main__.py"
+-'  1  0  ~/garden/__main__.py
+|4,39,1,0,1791313093,"~/garden/__main__.py"
+-'  1  0  ~/garden/__main__.py
+|4,39,1,0,1791313093,"~/garden/__main__.py"
+-'  1  0  ~/garden/__main__.py
+|4,39,1,0,1791313093,"~/garden/__main__.py"
+-'  1  0  ~/garden/__main__.py
+|4,39,1,0,1791313093,"~/garden/__main__.py"
+-'  1  0  ~/garden/__main__.py
+|4,39,1,0,1791313093,"~/garden/__main__.py"
+-'  1  0  ~/garden/__main__.py
+|4,39,1,0,1791313093,"~/garden/__main__.py"
+-'  1  0  ~/garden/__main__.py
+|4,39,1,0,1791313093,"~/garden/__main__.py"
+-'  2  20  ~/garden/__init__.py
+|4,39,2,20,1791313080,"~/garden/__init__.py"
+-'  2  20  ~/garden/__init__.py
+|4,39,2,20,1791313080,"~/garden/__init__.py"
+-'  2  20  ~/garden/__init__.py
+|4,39,2,20,1791313080,"~/garden/__init__.py"
+-'  2  20  ~/garden/__init__.py
+|4,39,2,20,1791313080,"~/garden/__init__.py"
+-'  2  20  ~/garden/__init__.py
+|4,39,2,20,1791313080,"~/garden/__init__.py"
+-'  2  20  ~/garden/__init__.py
+|4,39,2,20,1791313080,"~/garden/__init__.py"
+-'  2  20  ~/garden/__init__.py
+|4,39,2,20,1791313080,"~/garden/__init__.py"
+-'  2  20  ~/garden/__init__.py
+|4,39,2,20,1791313080,"~/garden/__init__.py"
+-'  2  20  ~/garden/__init__.py
+|4,39,2,20,1791313080,"~/garden/__init__.py"
+-'  2  20  ~/garden/__init__.py
+|4,39,2,20,1791313080,"~/garden/__init__.py"
+-'  2  20  ~/garden/__init__.py
+|4,39,2,20,1791313080,"~/garden/__init__.py"
+-'  2  20  ~/garden/__init__.py
+|4,39,2,20,1791313080,"~/garden/__init__.py"
+-'  2  20  ~/garden/__init__.py
+|4,39,2,20,1791313080,"~/garden/__init__.py"
+-'  2  20  ~/garden/__init__.py
+|4,39,2,20,1791313080,"~/garden/__init__.py"
+-'  2  20  ~/garden/__init__.py
+|4,39,2,20,1791313080,"~/garden/__init__.py"
+-'  2  20  ~/garden/__init__.py
+|4,39,2,20,1791313080,"~/garden/__init__.py"
+-'  1  0  ~/garden/__init__.py
+|4,39,1,0,1791313076,"~/garden/__init__.py"
+-'  1  0  ~/garden/__init__.py
+|4,39,1,0,1791313076,"~/garden/__init__.py"
+-'  1  0  ~/garden/__init__.py
+|4,39,1,0,1791313076,"~/garden/__init__.py"
+-'  1  0  ~/garden/__init__.py
+|4,39,1,0,1791313076,"~/garden/__init__.py"
+-'  1  0  ~/garden/__init__.py
+|4,39,1,0,1791313076,"~/garden/__init__.py"
+-'  1  0  ~/garden/__init__.py
+|4,39,1,0,1791313076,"~/garden/__init__.py"
+-'  1  0  ~/garden/__init__.py
+|4,39,1,0,1791313076,"~/garden/__init__.py"
+-'  1  0  ~/garden/__init__.py
+|4,39,1,0,1791313076,"~/garden/__init__.py"
+-'  1  0  ~/garden/__init__.py
+|4,39,1,0,1791313076,"~/garden/__init__.py"
+-'  1  0  ~/garden/__init__.py
+|4,39,1,0,1791313076,"~/garden/__init__.py"
+-'  1  0  ~/garden/__init__.py
+|4,39,1,0,1791313076,"~/garden/__init__.py"
+-'  1  0  ~/garden/__init__.py
+|4,39,1,0,1791313076,"~/garden/__init__.py"
+-'  1  0  ~/garden/__init__.py
+|4,39,1,0,1791313076,"~/garden/__init__.py"
+-'  1  0  ~/garden/__init__.py
+|4,39,1,0,1791313076,"~/garden/__init__.py"
+-'  1  0  ~/garden/__init__.py
+|4,39,1,0,1791313076,"~/garden/__init__.py"
+-'  1  0  ~/garden/__init__.py
+|4,39,1,0,1791313076,"~/garden/__init__.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  150  0  ~/garden/zones.py
+|4,39,150,0,1791313061,"~/garden/zones.py"
+-'  1  0  ~/garden/zones.py
+|4,39,1,0,1791313056,"~/garden/zones.py"
+-'  1  0  ~/garden/zones.py
+|4,39,1,0,1791313056,"~/garden/zones.py"
+-'  1  0  ~/garden/zones.py
+|4,39,1,0,1791313056,"~/garden/zones.py"
+-'  1  0  ~/garden/zones.py
+|4,39,1,0,1791313056,"~/garden/zones.py"
+-'  1  0  ~/garden/zones.py
+|4,39,1,0,1791313056,"~/garden/zones.py"
+-'  1  0  ~/garden/zones.py
+|4,39,1,0,1791313056,"~/garden/zones.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/garden/ics.py
+	*	1791313152	0
+	"	47	0
+	^	47	0
+	.	46	38
+	+	46	38
+
+> ~/garden/server.py
+	*	1791313136	0
+	"	142	0
+	^	142	0
+	.	141	28
+	+	141	28
+
+> ~/garden/cli.py
+	*	1791313116	0
+	"	140	0
+	^	140	0
+	.	139	12
+	+	139	12
+
+> ~/garden/__main__.py
+	*	1791313095	0
+	"	4	0
+	^	4	0
+	.	3	24
+	+	3	24
+
+> ~/garden/__init__.py
+	*	1791313079	0
+	"	2	20
+	^	2	21
+	.	2	20
+	+	2	20
+
+> ~/garden/zones.py
+	*	1791313061	0
+	"	150	0
+	^	150	0
+	.	149	21
+	+	149	21
+
+> ~/garden/planner.py
+	*	1791313039	0
+	"	138	0
+	^	138	0
+	.	137	63
+	+	137	63
+
+> ~/deploy/garden-calendar.service
+	*	1791312991	0
+	"	27	25
+	^	28	0
+	.	27	26
+	+	27	26
+
+> ~/test_planner.py
+	*	1791312905	0
+	"	157	0
+	^	157	0
+	.	156	19
+	+	156	19
+
+> ~/test_planner
+	*	1791312892	0
+	"	1	0
+
+> ~/__init__.py
+	*	1791312864	0
+	"	1	0
 
 > ~/README.md
 	*	1791311527	0

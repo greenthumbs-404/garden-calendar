@@ -1,0 +1,28 @@
+# systemd unit for running the garden calendar on a small always-on box (Raspberry Pi, mini PC, etc.)
+#
+#   sudo cp -r garden-calendar /opt/garden-calendar
+#   sudo useradd --system --home /var/lib/garden-calendar --create-home garden
+#   sudo cp /opt/garden-calendar/deploy/garden-calendar.service /etc/systemd/system/
+#   sudo systemctl daemon-reload && sudo systemctl enable --now garden-calendar
+#   journalctl -u garden-calendar -f
+[Unit]
+Description=Garden planting & harvest calendar
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=garden
+WorkingDirectory=/opt/garden-calendar
+Environment=GARDEN_CACHE_DIR=/var/lib/garden-calendar
+ExecStart=/usr/bin/python3 -m garden serve --host 0.0.0.0 --port 8080
+Restart=on-failure
+# Hardening: the app only needs to read its own files and write the ZIP cache.
+NoNewPrivileges=yes
+ProtectSystem=strict
+ProtectHome=yes
+ReadWritePaths=/var/lib/garden-calendar
+PrivateTmp=yes
+
+[Install]
+WantedBy=multi-user.target
+
